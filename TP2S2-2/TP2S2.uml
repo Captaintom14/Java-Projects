@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ca.qc.bdeb.info202.tp2.TP2S2</OriginalElement>
+  <nodes>
+    <node x="-224.0" y="-489.0">ca.qc.bdeb.info202.tp2.TP2S2</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="-101.0" y="-407.5" />
+  <SelectedNodes>
+    <node>ca.qc.bdeb.info202.tp2.TP2S2</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
